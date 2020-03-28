@@ -1,4 +1,4 @@
-Laravel Admin Loading-Overlay Extension
+Laravel Admin Loading Overlay Extension
 ======
 
 ```bash
